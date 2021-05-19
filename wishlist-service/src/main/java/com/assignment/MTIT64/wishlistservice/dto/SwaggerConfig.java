@@ -39,7 +39,7 @@ public class SwaggerConfig {
                         "https://mvnrepository.com/artifact/io.springfox/springfox-swagger2/2.9.2",
                         "iT18014914@my.sliit.lk"),
                 "API Dashboard",
-                "http://localhost:8092/swagger-ui.html#/",
+                "http://localhost:8030/swagger-ui.html#/",
                 Collections.emptyList()
         );
     }
